@@ -8,6 +8,18 @@
 	"item": [
 		{
 			"name": "UpdatedONGit",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "86e0256e-1a1f-4fc4-93c2-a08d40f0fe1b",
+						"exec": [
+							"//test"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"id": "2d1ddb64-eb4b-4da9-af70-d7006e0ff095",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
