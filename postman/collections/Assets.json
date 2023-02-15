@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "02c58a5f-7262-4931-9fef-99a72697f972",
+		"name": "Assets",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "25845131-02c58a5f-7262-4931-9fef-99a72697f972"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "2d1ddb64-eb4b-4da9-af70-d7006e0ff095",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "googel.com",
+					"host": [
+						"googel",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
