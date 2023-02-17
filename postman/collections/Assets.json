@@ -14,7 +14,7 @@
 					"script": {
 						"id": "86e0256e-1a1f-4fc4-93c2-a08d40f0fe1b",
 						"exec": [
-							"//test"
+							"//testUPDATEDviaGit"
 						],
 						"type": "text/javascript"
 					}
